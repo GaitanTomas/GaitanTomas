@@ -9,11 +9,11 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/📍%20Buenos%20Aires,%20Argentina-6C63FF?style=flat" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Junior%20Developer-6C63FF?style=flat" />
   <img src="https://komarev.com/ghpvc/?username=GaitanTomas&label=Profile%20Views&color=6C63FF&style=flat" />
   <img src="https://img.shields.io/github/followers/GaitanTomas?label=Followers&color=6C63FF&style=flat" />
   <img src="https://img.shields.io/github/stars/GaitanTomas?label=Stars&color=6C63FF&style=flat" />
 </p>
-
 
 ## 👨‍💻 Sobre mí
 
@@ -60,13 +60,13 @@ Me gusta aprender cosas nuevas, escuchar música mientras programo y explorar he
  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+ ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
  ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
- ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+ ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
- ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
  <br>
@@ -91,7 +91,7 @@ Me gusta aprender cosas nuevas, escuchar música mientras programo y explorar he
 
 ## 📫 Contacto
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/gaitantomas">
     <img src="https://img.shields.io/badge/LinkedIn-Tomás%20Gaitán-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
