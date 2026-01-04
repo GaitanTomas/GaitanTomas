@@ -8,6 +8,7 @@
 </h1>
 
 <p align="left">
+  <img src="https://img.shields.io/badge/📍%20Buenos%20Aires,%20Argentina-6C63FF?style=flat" />
   <img src="https://komarev.com/ghpvc/?username=GaitanTomas&label=Profile%20Views&color=6C63FF&style=flat" />
   <img src="https://img.shields.io/github/followers/GaitanTomas?label=Followers&color=6C63FF&style=flat" />
   <img src="https://img.shields.io/github/stars/GaitanTomas?label=Stars&color=6C63FF&style=flat" />
@@ -24,15 +25,36 @@ Trabajo principalmente con **JavaScript, TypeScript y React**, creando interface
 
 Me considero una persona curiosa y proactiva: disfruto aprender, resolver problemas y mejorar constantemente la calidad de lo que construyo.
 
-Actualmente estoy buscando mi **primera oportunidad en IT**, donde pueda aportar valor, aprender de un equipo profesional y seguir creciendo como desarrollador.
+✨ Estoy buscando mi **primera oportunidad en IT**, donde pueda aportar valor, aprender de un equipo profesional y seguir creciendo como desarrollador.
 
 🌱 **Actualmente aprendiendo**
 - Profundizando en React y TypeScript
 - Integración Front / Back con APIs REST
 
 💡 **Fuera del mundo tech**
-Me gusta aprender cosas nuevas, escuchar música mientras programo y explorar herramientas que mejoren tanto el código como la experiencia de usuario
+Me gusta aprender cosas nuevas, escuchar música mientras programo y explorar herramientas que mejoren tanto el código como la experiencia de usuario.
 <br clear="right"/>
+
+<br>
+
+## 🚀 Proyectos Destacados
+
+| 🛒 **Sistema de Gestión – Backend** | 🎬 **FilmRank** |
+|:--:|:--:|
+| API REST para gestión de inventario | SPA para explorar y rankear películas y series |
+| Node.js · Express · MongoDB · JWT | React · Vite · TMDB API |
+| Auth, roles, rate limit, métricas | Búsqueda, ranking, dark mode |
+| [📂 Repo](https://github.com/GaitanTomas/Sistema_de_gestion-Backend) | [🌐 Demo](https://film-rank.netlify.app) · [📂 Repo](https://github.com/GaitanTomas/Proyecto-UTN-2_FilmRank) |
+
+| 🏙️ **Altura Inmobiliaria** | 🛍️ **Baitz (Freelance)** |
+|:--:|:--:|
+| Landing page para inmobiliaria ficticia | Sitio web E-commerce para cliente real |
+| HTML · CSS · JS · Responsive | HTML · CSS · JavaScript |
+| Maquetación, AOS, galería | UX, animaciones, enfoque comercial |
+| [🌐 Demo](https://gaitantomas.github.io/Proyecto-UTN-1_Altura/) · [📂 Repo](https://github.com/GaitanTomas/Proyecto-UTN-1_Altura) | [🌐 Demo](https://baitz.netlify.app) · [📂 Repo](https://github.com/WebQuickAr/Baitz) |
+
+> 📁 Cada proyecto incluye README con stack, instalación y decisiones técnicas.
+
 
 <br>
 
@@ -61,27 +83,32 @@ Me gusta aprender cosas nuevas, escuchar música mientras programo y explorar he
 
 ## ⚙️ GitHub Analytics
 
-<p align="left">
-  <a href="https://github.com/GaitanTomas">
-    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GaitanTomas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/GaitanTomas">
-    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GaitanTomas&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GaitanTomas&theme=react-dark&hide_border=true"/>
 </p>
 
-<br>
+<p align="center">
+  <a href="https://github.com/GaitanTomas">
+    <img height="135em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GaitanTomas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+
+  <img width="20"/>
+
+  <a href="https://github.com/GaitanTomas">
+    <img height="135em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GaitanTomas&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
 ## 📫 Contacto
 
 <p align="left">
-  <a href="mailto:tomasgaitan.contact@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tomasgaitan.contact%40gmail.com-6C63FF?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
   <a href="https://linkedin.com/in/gaitantomas">
-    <img src="https://img.shields.io/badge/LinkedIn-Tomás%20Gaitán-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Tomás%20Gaitán-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/GaitanTomas">
-    <img src="https://img.shields.io/badge/GitHub-GaitanTomas-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-GaitanTomas-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:tomasgaitan.contact@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tomasgaitan.contact%40gmail.com-6C63FF?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
