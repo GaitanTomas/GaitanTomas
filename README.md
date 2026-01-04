@@ -39,22 +39,12 @@ Me gusta aprender cosas nuevas, escuchar música mientras programo y explorar he
 
 ## 🚀 Proyectos Destacados
 
-| 🛒 **Sistema de Gestión – Backend** | 🎬 **FilmRank** |
-|:--:|:--:|
-| API REST para gestión de inventario | SPA para explorar y rankear películas y series |
-| Node.js · Express · MongoDB · JWT | React · Vite · TMDB API |
-| Auth, roles, rate limit, métricas | Búsqueda, ranking, dark mode |
-| [📂 Repo](https://github.com/GaitanTomas/Sistema_de_gestion-Backend) | [🌐 Demo](https://film-rank.netlify.app) · [📂 Repo](https://github.com/GaitanTomas/Proyecto-UTN-2_FilmRank) |
-
-| 🏙️ **Altura Inmobiliaria** | 🛍️ **Baitz (Freelance)** |
-|:--:|:--:|
-| Landing page para inmobiliaria ficticia | Sitio web E-commerce para cliente real |
-| HTML · CSS · JS · Responsive | HTML · CSS · JavaScript |
-| Maquetación, AOS, galería | UX, animaciones, enfoque comercial |
-| [🌐 Demo](https://gaitantomas.github.io/Proyecto-UTN-1_Altura/) · [📂 Repo](https://github.com/GaitanTomas/Proyecto-UTN-1_Altura) | [🌐 Demo](https://baitz.netlify.app) · [📂 Repo](https://github.com/WebQuickAr/Baitz) |
-
-> 📁 Cada proyecto incluye README con stack, instalación y decisiones técnicas.
-
+| 🛒 **Sistema de Gestión – Backend** | 🎬 **FilmRank** | 🛍️ **Baitz (Freelance)** |
+|:--:|:--:|:--:|
+| API REST para gestión de inventario | SPA para explorar y rankear películas y series | Sitio web E-commerce para cliente real |
+| Node.js · Express · MongoDB · JWT | React · Vite · TMDB API | HTML · CSS · JavaScript |
+| Auth, roles, rate limit, métricas | Búsqueda, ranking, dark mode | UX, animaciones, enfoque comercial |
+| [📂 Repo](https://github.com/GaitanTomas/Sistema_de_gestion-Backend) | [🌐 Demo](https://film-rank.netlify.app)<br/>[📂 Repo](https://github.com/GaitanTomas/Proyecto-UTN-2_FilmRank) | [🌐 Demo](https://baitz.netlify.app)<br/>[📂 Repo](https://github.com/WebQuickAr/Baitz) |
 
 <br>
 
@@ -89,13 +79,13 @@ Me gusta aprender cosas nuevas, escuchar música mientras programo y explorar he
 
 <p align="center">
   <a href="https://github.com/GaitanTomas">
-    <img height="135em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GaitanTomas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GaitanTomas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
 
   <img width="20"/>
 
   <a href="https://github.com/GaitanTomas">
-    <img height="135em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GaitanTomas&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GaitanTomas&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
