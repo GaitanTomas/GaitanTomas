@@ -19,11 +19,11 @@
 
 <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmRiN3RwYmEwd2dsbzQ0aWYyNHllNXhudzAzdzF6bWp0aWZ4cGIydiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ad91OoLyqki6f0ICEe/200.webp" width="220" />
 
-Soy **Full Stack Developer Junior**, con experiencia en proyectos freelance y académicos.
+Soy **Full Stack Developer Junior**, con experiencia en proyectos académicos y freelance.
 
 Trabajo principalmente con **JavaScript, TypeScript y React**, creando interfaces **responsivas y orientadas a la experiencia de usuario**, y cuento con bases sólidas en **Back-End** (Node.js, APIs REST y bases de datos), lo que me permite participar en desarrollos completos.
 
-Me considero una persona curiosa y proactiva: disfruto aprender, resolver problemas y mejorar constantemente la calidad de lo que construyo.
+Me considero una persona curiosa y proactiva: disfruto aprender, resolver problemas y mejorar constantemente la calidad de lo que construyo. Actualmente continúo formándome en herramientas del ecosistema moderno, priorizando siempre la práctica en proyectos reales.
 
 ✨ Estoy buscando mi **primera oportunidad en IT**, donde pueda aportar valor, aprender de un equipo profesional y seguir creciendo como desarrollador.
 
@@ -44,30 +44,33 @@ Me gusta aprender cosas nuevas, escuchar música mientras programo y explorar he
 | API REST para gestión de inventario | SPA para explorar y rankear películas y series | Sitio web E-commerce para cliente real |
 | Node.js · Express · MongoDB · JWT | React · Vite · TMDB API | HTML · CSS · JavaScript |
 | Auth, roles, rate limit, métricas | Búsqueda, ranking, dark mode | UX, animaciones, enfoque comercial |
-| [📂 Repo](https://github.com/GaitanTomas/Sistema_de_gestion-Backend) | [🌐 Demo](https://film-rank.netlify.app)<br/>[📂 Repo](https://github.com/GaitanTomas/Proyecto-UTN-2_FilmRank) | [🌐 Demo](https://baitz.netlify.app)<br/>[📂 Repo](https://github.com/WebQuickAr/Baitz) |
+| <a href="https://github.com/GaitanTomas/Sistema_de_gestion-Backend"><img src="https://img.shields.io/badge/Repositorio-GitHub-6C63FF?style=flat&logo=github&logoColor=white"/></a> | <a href="https://film-rank.netlify.app"><img src="https://img.shields.io/badge/Demo-Online-6C63FF?style=flat&logo=netlify&logoColor=white"/></a> <a href="https://github.com/GaitanTomas/Proyecto-UTN-2_FilmRank"><img src="https://img.shields.io/badge/Repo-GitHub-6C63FF?style=flat&logo=github&logoColor=white"/></a> | <a href="https://baitz.netlify.app"><img src="https://img.shields.io/badge/Demo-Online-6C63FF?style=flat&logo=netlify&logoColor=white"/></a> <a href="https://github.com/WebQuickAr/Baitz"><img src="https://img.shields.io/badge/Repo-GitHub-6C63FF?style=flat&logo=github&logoColor=white"/></a> |
 
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"><b> Skills</b>
  
- ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
- ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
- ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
- ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
- ![Handlebars](https://img.shields.io/badge/Handlebars-%23000000?style=for-the-badge&logo=Handlebars.js&logoColor=white) 
- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
- ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
- ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
- ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### ✅ Tecnologías que manejo
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 🧭 Tecnologías de interés a corto plazo
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
  <br>
 
