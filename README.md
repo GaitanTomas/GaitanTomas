@@ -21,7 +21,7 @@
 
 Soy **Full Stack Developer Junior**, con experiencia en proyectos académicos y freelance.
 
-Trabajo principalmente con **JavaScript, TypeScript y React**, creando interfaces **responsivas y orientadas a la experiencia de usuario**, y cuento con bases sólidas en **Back-End** (Node.js, APIs REST y bases de datos), lo que me permite participar en desarrollos completos.
+Trabajo principalmente con **React y JavaScript**, creando interfaces **responsivas y orientadas a la experiencia de usuario**, y cuento con bases sólidas en **Back-End** (Node.js, APIs REST y bases de datos), lo que me permite participar en desarrollos completos.
 
 Me considero una persona curiosa y proactiva: disfruto aprender, resolver problemas y mejorar constantemente la calidad de lo que construyo. Actualmente continúo formándome en herramientas del ecosistema moderno, priorizando siempre la práctica en proyectos reales.
 
