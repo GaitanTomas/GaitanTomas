@@ -39,24 +39,24 @@ Me gusta aprender cosas nuevas, escuchar música mientras programo y explorar he
 
 ## 🚀 Proyectos Destacados
 
-| 🛒 **Sistema de Gestión – Backend** | 🎬 **FilmRank** | 🛍️ **Baitz (Freelance)** |
+| 🎬 **FilmRank** | 🛒 **Sistema de Gestión – Backend** | 🛍️ **Baitz (Freelance)** |
 |:--:|:--:|:--:|
-| API REST para gestión de inventario | SPA para explorar y rankear películas y series | Sitio web E-commerce para cliente real |
-| Node.js · Express · MongoDB · JWT | React · Vite · TMDB API | HTML · CSS · JavaScript |
-| Auth, roles, rate limit, métricas | Búsqueda, ranking, dark mode | UX, animaciones, enfoque comercial |
-| <a href="https://github.com/GaitanTomas/Sistema_de_gestion-Backend"><img src="https://img.shields.io/badge/Repositorio-GitHub-6C63FF?style=flat&logo=github&logoColor=white"/></a> | <a href="https://film-rank.netlify.app"><img src="https://img.shields.io/badge/Demo-Online-6C63FF?style=flat&logo=netlify&logoColor=white"/></a> <a href="https://github.com/GaitanTomas/Proyecto-UTN-2_FilmRank"><img src="https://img.shields.io/badge/Repo-GitHub-6C63FF?style=flat&logo=github&logoColor=white"/></a> | <a href="https://baitz.netlify.app"><img src="https://img.shields.io/badge/Demo-Online-6C63FF?style=flat&logo=netlify&logoColor=white"/></a> <a href="https://github.com/WebQuickAr/Baitz"><img src="https://img.shields.io/badge/Repo-GitHub-6C63FF?style=flat&logo=github&logoColor=white"/></a> |
+| SPA para explorar y rankear películas y series | API REST para gestión de inventario | Sitio web E-commerce para cliente real |
+| React · Vite · TMDB API | Node.js · Express · MongoDB · JWT | HTML · CSS · JavaScript |
+| Búsqueda, ranking, dark mode | Auth, roles, rate limit, métricas | UX, animaciones, enfoque comercial |
+| <a href="https://film-rank.netlify.app"><img src="https://img.shields.io/badge/Demo-Online-6C63FF?style=flat&logo=netlify&logoColor=white"/></a> <a href="https://github.com/GaitanTomas/Proyecto-UTN-2_FilmRank"><img src="https://img.shields.io/badge/Repo-GitHub-6C63FF?style=flat&logo=github&logoColor=white"/></a> | <a href="https://github.com/GaitanTomas/Sistema_de_gestion-Backend"><img src="https://img.shields.io/badge/Repositorio-GitHub-6C63FF?style=flat&logo=github&logoColor=white"/></a> | <a href="https://baitz.netlify.app"><img src="https://img.shields.io/badge/Demo-Online-6C63FF?style=flat&logo=netlify&logoColor=white"/></a> <a href="https://github.com/WebQuickAr/Baitz"><img src="https://img.shields.io/badge/Repo-GitHub-6C63FF?style=flat&logo=github&logoColor=white"/></a> |
 
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"><b> Skills</b>
  
 ### ✅ Tecnologías que manejo
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
