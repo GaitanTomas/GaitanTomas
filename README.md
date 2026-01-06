@@ -32,7 +32,7 @@ Me considero una persona curiosa y proactiva: disfruto aprender, resolver proble
 - Integración Front / Back con APIs REST
 
 💡 **Más allá del código** <br>
-Disfruto aprender cosas nuevas, explorar herramientas y pensar en cómo mejorar la experiencia de usuario y el producto en general, y trabajar acompañado de buena música.
+Disfruto aprender cosas nuevas, explorar herramientas y pensar en cómo mejorar la experiencia del usuario y el producto en general, siempre acompañado de buena música.
 <br clear="right"/>
 
 <br>
