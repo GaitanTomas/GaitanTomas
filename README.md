@@ -23,7 +23,7 @@ Soy **Full Stack Developer Junior**, con experiencia en proyectos académicos y 
 
 Trabajo principalmente con **React y JavaScript**, creando interfaces **responsivas y orientadas a la experiencia de usuario**, y cuento con bases sólidas en **Back-End** (Node.js, APIs REST y bases de datos), lo que me permite participar en desarrollos completos.
 
-Me considero una persona curiosa y proactiva: disfruto aprender, resolver problemas y mejorar constantemente la calidad de lo que construyo. Actualmente continúo formándome en herramientas del ecosistema moderno, priorizando siempre la práctica en proyectos reales.
+Me considero una persona curiosa y proactiva: disfruto aprender, resolver problemas y mejorar constantemente la calidad de lo que construyo. Actualmente continúo formándome en tecnologías modernas del desarrollo web, priorizando siempre la práctica en proyectos reales.
 
 ✨ Estoy buscando mi **primera oportunidad en IT**, donde pueda aportar valor, aprender de un equipo profesional y seguir creciendo como desarrollador.
 
@@ -31,8 +31,8 @@ Me considero una persona curiosa y proactiva: disfruto aprender, resolver proble
 - Profundizando en React y TypeScript
 - Integración Front / Back con APIs REST
 
-💡 **Fuera del mundo tech**
-Me gusta aprender cosas nuevas, escuchar música mientras programo y explorar herramientas que mejoren tanto el código como la experiencia de usuario.
+💡 **Más allá del código** <br>
+Disfruto aprender cosas nuevas, explorar herramientas y pensar en cómo mejorar la experiencia de usuario y el producto en general, y trabajar acompañado de buena música.
 <br clear="right"/>
 
 <br>
