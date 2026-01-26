@@ -77,18 +77,14 @@ Disfruto aprender cosas nuevas, explorar herramientas y pensar en cómo mejorar 
 ## ⚙️ GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GaitanTomas&theme=react-dark&hide_border=true"/>
-</p>
-
-<p align="center">
   <a href="https://github.com/GaitanTomas">
-    <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GaitanTomas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GaitanTomas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
 
   <img width="20"/>
 
   <a href="https://github.com/GaitanTomas">
-    <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GaitanTomas&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GaitanTomas&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
