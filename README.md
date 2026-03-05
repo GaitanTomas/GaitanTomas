@@ -3,8 +3,7 @@
 </div>
 
 <h1 align="center"> 
-  Hola, soy Tomas Gaitán!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<a href="https://git.io/typing-svg"><img width=100% src="https://readme-typing-svg.herokuapp.com?font=ChakraPetch&weight=500&size=16&letterSpacing=normal&duration=7000&pause=1000&color=6C63FF&center=true&repeat=false&width=435&height=33&lines=Hi%2C+I'm+Tomas+Gaitan&#128075;&#127996" alt="Typing SVG" /></a>
 </h1>
 
 <p align="left">
