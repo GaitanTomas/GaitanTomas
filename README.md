@@ -38,11 +38,12 @@ Disfruto aprender cosas nuevas, explorar herramientas y pensar en cómo mejorar 
 
 ## 🚀 Proyectos Destacados
 
-| 🎬 **FilmRank** | 🛒 **Sistema de Gestión – Backend** | 🛍️ **Baitz (Freelance)** |
+| 🎬 **FilmRank** | 🛒 **Sistema de Gestión – Backend** | 🛍️ **Baitz** |
 |:--:|:--:|:--:|
-| SPA para explorar y rankear películas y series | API REST para gestión de inventario | Sitio web E-commerce para cliente real |
+| SPA para explorar y rankear películas y series | API REST para gestión de inventario | Catalogo de ropa online|
+| **Proyecto Academico** | **Proyecto Academico** | **Proyecto Freelance** |
 | React · Vite · TMDB API | Node.js · Express · MongoDB · JWT | HTML · CSS · JavaScript |
-| Búsqueda, ranking, dark mode | Auth, roles, rate limit, métricas | UX, animaciones, enfoque comercial |
+| Búsqueda, ranking, dark mode | Auth, roles, rate limit, métricas | Enfoque comercial, UX, animaciones |
 | <a href="https://film-rank.netlify.app"><img src="https://img.shields.io/badge/Demo-Online-6C63FF?style=flat&logo=netlify&logoColor=white"/></a> <a href="https://github.com/GaitanTomas/Proyecto-UTN-2_FilmRank"><img src="https://img.shields.io/badge/Repo-GitHub-6C63FF?style=flat&logo=github&logoColor=white"/></a> | <a href="https://github.com/GaitanTomas/Sistema_de_gestion-Backend"><img src="https://img.shields.io/badge/Repositorio-GitHub-6C63FF?style=flat&logo=github&logoColor=white"/></a> | <a href="https://baitz.netlify.app"><img src="https://img.shields.io/badge/Demo-Online-6C63FF?style=flat&logo=netlify&logoColor=white"/></a> <a href="https://github.com/WebQuickAr/Baitz"><img src="https://img.shields.io/badge/Repo-GitHub-6C63FF?style=flat&logo=github&logoColor=white"/></a> |
 
 <br>
