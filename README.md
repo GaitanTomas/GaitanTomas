@@ -28,7 +28,6 @@ Me considero una persona curiosa y proactiva: disfruto aprender, resolver proble
 
 🌱 **Actualmente aprendiendo**
 - Profundizando en React y TypeScript
-- Integración Front / Back con APIs REST
 
 💡 **Más allá del código** <br>
 Disfruto aprender cosas nuevas, explorar herramientas y pensar en cómo mejorar la experiencia del usuario y el producto en general, siempre acompañado de buena música.
